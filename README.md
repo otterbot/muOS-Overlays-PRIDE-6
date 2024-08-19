@@ -1,5 +1,7 @@
 Included are overlays with normal and holo-style bezels with and without grids with the necessary configuration files. Credit to AntiKK for allowing me to edit his overlays and use his config files because I can't code to save my life.
 
+![alt_text](https://github.com/otterbot/muOS-Overlays-Pride6/blob/main/Sample.png?raw=true)
+
 # File Placement
 Move the **OtterBot** folder to `mmc > MUOS > retroarch > overlays`
 
