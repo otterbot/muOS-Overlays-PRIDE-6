@@ -1,3 +1,7 @@
+# PRIDE-6 muOS Overlays
+
+**Note: This repository will not be receiving any further updates or additions in the form of bezels for Gameboy color or Gameboy micro.**
+
 Included are overlays with normal and holo-style bezels with and without grids with the necessary configuration files. Credit to AntiKK for allowing me to edit his overlays and use his config files because I can't code to save my life.
 
 ![alt_text](https://github.com/otterbot/muOS-Overlays-PRIDE-6/blob/main/Sample-GBA_PRIDE-6.png?raw=true)
